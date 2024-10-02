@@ -36,7 +36,7 @@ We take your privacy seriously. Hutomomo only collects the minimum necessary inf
 - Server configurations (guilds)
 - Ban reasons and related evidence
 
-For full details, check our [Privacy Policy](./PRIVACY.md).
+For full details, check our [Privacy Policy](./wiki/Privacy-Policy).
 
 ## Getting Started
 
